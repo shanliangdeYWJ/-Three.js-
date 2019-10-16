@@ -16,6 +16,6 @@
 
 - 后面提交
 	
-	git add. 或者 git add -u .   后者是不加参数默认为将修改操作的文件和未跟踪新添加的文件添加到git系统的暂存区，注意不包括删除
+	git add . 或者 git add -u .   后者是不加参数默认为将修改操作的文件和未跟踪新添加的文件添加到git系统的暂存区，注意不包括删除
 	
-	git push -u origin master 
+	git push -u origin master
